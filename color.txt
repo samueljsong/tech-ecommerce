@@ -1,0 +1,5 @@
+black: #2f3032
+white: #f4f5f7
+highlight: #748484
+dark grey: #959695
+light grey: #c5c6c5
