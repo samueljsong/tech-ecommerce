@@ -21,7 +21,10 @@
 
     .nav-elements a {
         text-decoration: none;
+        font-style: none;
         align-self: center;
+        color: #2f3032;
+        font-weight: 700;
     }
 
 
