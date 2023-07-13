@@ -1,4 +1,29 @@
-.nav-container{
-    display: flex;
-    height: 5rem;
+@media only screen and (max-width: 480px){
+    
+    .nav-container{
+        display: flex;
+        justify-content: space-between;
+        height: 4rem;
+        align-items: center;
+        border-bottom: solid 2px #2f3032;
+    }
+
+    .logo{
+        width: 4rem;
+    }
+
+
+
+    .nav-elements{
+        display: flex;
+        gap: 1rem;
+    }
+
+    .nav-elements a {
+        text-decoration: none;
+        align-self: center;
+    }
+
+
+
 }
